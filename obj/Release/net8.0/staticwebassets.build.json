@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tMT7p1UHUEtODbBRu0vm20xZBvLmVZ6TU5TcAYMaeYo=",
+  "Source": "signalr-be",
+  "BasePath": "_content/signalr-be",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
